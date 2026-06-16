@@ -1,0 +1,82 @@
+[
+    {
+        "voornaam": "Mohammed",
+        "achternaam": "Ahmed",
+        "leeftijd": 15,
+        "email": "mohammed.ahmed@gmail.com",
+        "telefoonnummer": "0471234567",
+        "klas": "3A"
+    },
+    {
+        "voornaam": "Fatima",
+        "achternaam": "Ali",
+        "leeftijd": 14,
+        "email": "fatima.ali@gmail.com",
+        "telefoonnummer": "0482345678",
+        "klas": "2B"
+    },
+    {
+        "voornaam": "Youssef",
+        "achternaam": "Hassan",
+        "leeftijd": 16,
+        "email": "youssef.hassan@gmail.com",
+        "telefoonnummer": "0493456789",
+        "klas": "4A"
+    },
+    {
+        "voornaam": "Lina",
+        "achternaam": "Khaled",
+        "leeftijd": 13,
+        "email": "lina.khaled@gmail.com",
+        "telefoonnummer": "0464567890",
+        "klas": "1C"
+    },
+    {
+        "voornaam": "Omar",
+        "achternaam": "Saleh",
+        "leeftijd": 15,
+        "email": "omar.saleh@gmail.com",
+        "telefoonnummer": "0475678901",
+        "klas": "3B"
+    },
+    {
+        "voornaam": "Sara",
+        "achternaam": "Mahmoud",
+        "leeftijd": 14,
+        "email": "sara.mahmoud@gmail.com",
+        "telefoonnummer": "0486789012",
+        "klas": "2A"
+    },
+    {
+        "voornaam": "Adam",
+        "achternaam": "Mustafa",
+        "leeftijd": 17,
+        "email": "adam.mustafa@gmail.com",
+        "telefoonnummer": "0497890123",
+        "klas": "5A"
+    },
+    {
+        "voornaam": "Mariam",
+        "achternaam": "Ibrahim",
+        "leeftijd": 16,
+        "email": "mariam.ibrahim@gmail.com",
+        "telefoonnummer": "0468901234",
+        "klas": "4B"
+    },
+    {
+        "voornaam": "Bilal",
+        "achternaam": "Abdullah",
+        "leeftijd": 15,
+        "email": "bilal.abdullah@gmail.com",
+        "telefoonnummer": "0479012345",
+        "klas": "3C"
+    },
+    {
+        "voornaam": "Noor",
+        "achternaam": "Hamdan",
+        "leeftijd": 14,
+        "email": "noor.hamdan@gmail.com",
+        "telefoonnummer": "0480123456",
+        "klas": "2C"
+    }
+]
